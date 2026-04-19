@@ -74,6 +74,8 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
 
 </td><br/>
+<tr/>
+<tr>
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
