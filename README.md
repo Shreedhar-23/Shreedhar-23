@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```markdown
-<img align="center" alt="Banner" src="[https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif](https://github-production-user-asset-6210df.s3.amazonaws.com/131459863/471575395-4b2e233b-d247-4076-9850-17e16f9a6862.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260419%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260419T141534Z&X-Amz-Expires=300&X-Amz-Signature=bb04f374c75d4740430619f668db6db0e4448a1f3c5ea354ae45556ee65d9695&X-Amz-SignedHeaders=host&response-content-type=image%2Fgif)"/>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
