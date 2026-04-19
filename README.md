@@ -6,6 +6,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,0&height=220&section=header&text=Shreedhar%20Sapate&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cybersecurity%20Learner%20%7C%20Data-Analytics%20%7C%20Machine%20Learning&descAlignY=56&descSize=18&descColor=fff" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862"/>
+</p>
+
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Shreedhar Sapate</strong>
