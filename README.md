@@ -118,10 +118,11 @@
 
 ---
 
+
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreedhar-23&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreedhar-23&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
 </p>
 
 ---
