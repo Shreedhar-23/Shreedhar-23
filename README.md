@@ -6,12 +6,16 @@
   <img src="https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862"/>
 </p>
 
-<h1 align="left">
+<h1 align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Shreedhar Sapate</strong>
 </h1>
 
-<h3>Full Stack Developer | Cybersecurity & Ethical Hacking | Python • Kali Linux</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Ethical+Hacker+%7C+Cybersecurity;Python+%7C+Kali+Linux+Enthusiast;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+</p>
+
+<h3 align="center">Full Stack Developer | Cybersecurity & Ethical Hacking | Python • Kali Linux</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -39,6 +43,21 @@
 
   <img src="https://komarev.com/ghpvc/?username=Shreedhar-23&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
+
+<br clear="all" />
+
+---
+
+## 🚀 About Me
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+- 🔭 Currently working on **Full Stack Web Projects & CTF Challenges**
+- 🌱 Currently learning **Advanced Ethical Hacking & Machine Learning**
+- 👨‍💻 Exploring **Penetration Testing & Cybersecurity Tools**
+- 💬 Ask me about **Python, Web Development, Ethical Hacking**
+- 📫 Reach me at **sapateshreedhar23@gmail.com**
+- ⚡ Fun fact: **I break things to make them more secure!**
 
 <br clear="all" />
 
@@ -95,6 +114,14 @@
 
 ---
 
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreedhar-23&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -118,3 +145,9 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreedhar-23&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer" />
+</p>
