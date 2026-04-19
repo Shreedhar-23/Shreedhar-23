@@ -117,6 +117,14 @@
 </p>
 
 ---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Shreedhar-23&theme=onedark&no-frame=true&margin-w=4" />
+</p>
+
+
 ## 🏆 Achievements
 
 <p align="center">
@@ -125,12 +133,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreedhar-23&layout=compact&theme=react&hide_border=true" height="180"/>
 </p>
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreedhar-23&theme=flat&no-frame=true&margin-w=4&row=1&column=7" />
-</p>
----
 
 ## 📊 GitHub Stats
 
