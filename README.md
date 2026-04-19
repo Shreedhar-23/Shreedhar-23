@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Ethical+Hacker+%7C+Cybersecurity;Python+%7C+Kali+Linux+Enthusiast;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readmetypingsvg.demolab.comfont=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Ethical+Hacker+%7C+Cybersecurity;Python+%7C+Kali+Linux+Enthusiast;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Full Stack Developer | Cybersecurity & Ethical Hacking | Python • Kali Linux</h3>
