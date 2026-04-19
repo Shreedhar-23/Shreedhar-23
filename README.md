@@ -65,7 +65,7 @@
 <tr>
 <td width="50%" align="center">
 <h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,jupyter,antigravity,googlecolab" />
 <br/><br/>
 </td>
 
