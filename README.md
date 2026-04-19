@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,0&height=220&section=header&text=Shreedhar%20Sapate&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cybersecurity%20Learner%20%7C%20Data-Analytics%20%7C%20Machine%20Learning&descAlignY=56&descSize=18&descColor=fff" width="100%"/>
-</p>
-
 <!--
 **Shreedhar-23/Shreedhar-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,0&height=220&section=header&text=Shreedhar%20Sapate&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cybersecurity%20Learner%20%7C%20Data-Analytics%20%7C%20Machine%20Learning&descAlignY=56&descSize=18&descColor=fff" width="100%"/>
 </p>
 
 <h1 align="center">
@@ -153,5 +149,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,0&height=100&section=footer" />
 </p>
