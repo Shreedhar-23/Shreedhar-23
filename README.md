@@ -1,18 +1,5 @@
-
-
 <!--
 **Shreedhar-23/Shreedhar-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <p align="center">
@@ -24,7 +11,7 @@ Here are some ideas to get you started:
   Hi, I'm <strong>Shreedhar Sapate</strong>
 </h1>
 
-<h3>Full Stack Developer, Cybersecurity-Ethical Hacking | • Python • Kali-Linux </h3>
+<h3>Full Stack Developer | Cybersecurity & Ethical Hacking | Python • Kali Linux</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -39,58 +26,63 @@ Here are some ideas to get you started:
     <a href="mailto:sapateshreedhar23@gmail.com"><img src="https://img.shields.io/badge/📧_sapateshreedhar23@gmail.com-1e1e2e?style=for-the-badge" /></a>
   </p>
 
-<h3>🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://github.com/Shreedhar-23">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
+  <h3>🌐 Socials</h3>
 
-  <a href="https://www.linkedin.com/in/shreedhar-sapate-178658327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
+  <p align="left">
+    <a href="https://github.com/Shreedhar-23">
+      <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/shreedhar-sapate-178658327/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
 
-
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=Shreedhar-23&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 <br clear="all" />
 
+---
 
 ## 🛠️ Skills
+
 <p align="center">
 <table>
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
-
- <img src="https://skillicons.dev/icons?i=html,css,js,python,sql" />
-
-</td><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql" />
+<br/><br/>
+</td>
 
 <td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+<br/><br/>
+</td>
+</tr>
 
-</td><br/>
-<tr/>
 <tr>
+<td width="50%" align="center">
+<h3>🧰 Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,jupyter" />
+<br/><br/>
+</td>
 
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=git,Claud,vscode,Antigravity,andriodstudio,Googlecolab,mysql,jupyter" />
+<h3>📊 Data Science & ML</h3>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<br/><br/>
 </td>
 </tr>
 </table>
 </p>
 
-
-
-
-
-
-## 📊 GitHub Stats
+---
 
 ## 📊 GitHub Stats
 
@@ -104,6 +96,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
 ## 📈 Contributions
 
 <div align="center">
