@@ -90,9 +90,15 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreedhar-23&theme=react-dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Shreedhar-23&theme=dark&hide_border=true" alt="Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreedhar-23&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreedhar-23&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
