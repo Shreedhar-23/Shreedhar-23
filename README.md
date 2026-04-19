@@ -66,7 +66,6 @@ Here are some ideas to get you started:
 <h3>💻 Programming Languages</h3>
 
  <img src="https://skillicons.dev/icons?i=html,css,js,python,sql" />
-<br/>
 
 </td>
 
@@ -75,7 +74,6 @@ Here are some ideas to get you started:
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
     <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
-<br/>
 
 </td>
 
