@@ -118,12 +118,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Shreedhar-23&theme=onedark&no-frame=true&margin-w=4" />
-</p>
-
 
 ## 🏆 Achievements
 
