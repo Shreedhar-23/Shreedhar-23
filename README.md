@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,0&height=220&section=header&text=Pratik%20Yadav&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=56&descSize=18&descColor=fff" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0da1985a-e647-4da0-b593-5cbb42a82864" width="800"/>
+</p>
+
 <!--
 **Shreedhar-23/Shreedhar-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
